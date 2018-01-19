@@ -6,7 +6,7 @@ Session II-Galaxy Zoo 2:
 **Galaxy Zoo 2** is ...
 Some examples of each classes are shown below:
 <p align="center">
-  <img src="./images/cigar_shaped_0.jpg" width="700"/>
+  <img src="./images/cigar_shaped_0" width="700"/>
 </p>
 
 <p align="center">
