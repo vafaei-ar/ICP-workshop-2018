@@ -15,7 +15,7 @@ Some examples of each classes are shown below:
 <img src="./images/mid_round_0" width="200" />
 </div>  
 <div style="text-align:center;">
-<p style="text-align:center;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</p>
+<p style="text-align:center;color:#ff0000;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</p>
 </div>
 
 <p align="center">
