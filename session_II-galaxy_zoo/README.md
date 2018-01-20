@@ -6,7 +6,7 @@ Session II-Galaxy Zoo 2:
 **Galaxy Zoo 2** is ...
 Some examples of each classes are shown below:
 <p align="center"></p>
-   
+<div>   
 <img src="./images/cigar_shaped_0" width="200"/>
    
 <img src="./images/comp_round_0" width="200"/>
@@ -15,7 +15,7 @@ Some examples of each classes are shown below:
 
 <figcaption style="text-align:center;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</figcaption>
 
-
+</div>
 <p align="center">
   <img src="./images/no_bar_arm_0" width="200"/>
   <img src="./images/no_bar_no_arm_0" width="200"/>
