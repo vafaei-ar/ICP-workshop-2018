@@ -2,15 +2,15 @@
 
 ### Lab requirements
 
-  1. **Linix** is recomennded as OS.
+  1. **Linux** is recomennded as OS.
 
-  2. Install **TnesorFlow** and all of it's requirements. You can use the given help in the official website [^1].
+  2. Install **TensorFlow** and all of it's requirements. You can use given help in the official website [^1].
   
   3. **Jupyter Notebook**
   
   4. **Scipy**.
   
-  ** it is also recomended to use a *Anaconda* distribution of python [^2]. (you can install all required packages using Aanaconda)
+  ** It is also recomended to use a **Anaconda** distribution of python [^2]. (you can install all required packages using Aanaconda)
 
 ### Installing this Repo.
 
@@ -32,7 +32,7 @@ The repository is found at https://github.com/vafaei-ar/ICP-workshop-2018.git.
 
 Related helps or works can be found at the following URLs:
 
-*1* - More detailed *TF* introduction: https://github.com/aymericdamien/TensorFlow-Examples
+*1* - More detailed **TF** introduction: https://github.com/aymericdamien/TensorFlow-Examples
 
 
 <hr>
