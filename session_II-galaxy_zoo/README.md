@@ -18,12 +18,14 @@ Some examples of each classes are shown below:
 <p style="text-align:center;color:#ff0000;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</p>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="./images/no_bar_arm_0" width="200"/>
   <img src="./images/no_bar_no_arm_0" width="200"/>
+  
+</div>
+<div align="align">
   <figcaption>Left: No bar-arm, Right: no bar-no arm</figcaption>
-</p>
-
+  </div>
 
 **Documentation:** http://
 
