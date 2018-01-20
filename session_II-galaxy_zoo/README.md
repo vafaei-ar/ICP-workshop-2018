@@ -15,7 +15,7 @@ Some examples of each classes are shown below:
 <img src="./images/mid_round_0" width="200" />
 </div>  
 <div align="center">
-<p style="text-align:center;color:#ff0000;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</p>
+<p>Left: Cigar shape, Middle: Comp-round, Right: mid-round</p>
 </div>
 
 <div align="center">
@@ -23,8 +23,8 @@ Some examples of each classes are shown below:
   <img src="./images/no_bar_no_arm_0" width="200"/>
   
 </div>
-<div align="align">
-  <figcaption>Left: No bar-arm, Right: no bar-no arm</figcaption>
+<div align="center">
+  <p>Left: No bar-arm, Right: no bar-no arm</p>
   </div>
 
 **Documentation:** http://
