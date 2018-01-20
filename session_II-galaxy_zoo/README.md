@@ -7,17 +7,16 @@ Session II-Galaxy Zoo 2:
 Some examples of each classes are shown below:
 <p align="center"></p>
 <div>   
-   <figure>
+
 <img src="./images/cigar_shaped_0" width="200"/>
-   <figcaption style="text-align:center;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</figcaption>
- </figure>
- </div>  
+
 <img src="./images/comp_round_0" width="200"/>
   
 <img src="./images/mid_round_0" width="200" />
-
-
-
+</div>  
+<div style="text-align:center;">
+<p style="text-align:center;">Left: Cigar shape, Middle: Comp-round, Right: mid-round</p>
+</div>
 
 <p align="center">
   <img src="./images/no_bar_arm_0" width="200"/>
