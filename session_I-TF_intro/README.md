@@ -12,4 +12,5 @@ ICP-workshop-2018
 <hr>
 
 [^1] https://www.tensorflow.org/
+
 [^2] https://en.wikipedia.org/wiki/TensorFlow
