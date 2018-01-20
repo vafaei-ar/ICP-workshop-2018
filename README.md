@@ -1,13 +1,14 @@
-# ICP-workshop-2018
+# ICP-workshop-2018 repository
 
 ### Lab requirements
 
-  1. OS:
-     - *Linix* is recomennded.
+  1. **Linix** is recomennded as OS.
 
-  2. Install *TnesorFlow* and all of it's requirements. You can use the given help in the official website [^1].
+  2. Install **TnesorFlow** and all of it's requirements. You can use the given help in the official website [^1].
   
-  3. *Jupyter Notebook*
+  3. **Jupyter Notebook**
+  
+  4. **Scipy**.
   
   ** it is also recomended to use a *Anaconda* distribution of python [^2]. (you can install all required packages using Aanaconda)
 
